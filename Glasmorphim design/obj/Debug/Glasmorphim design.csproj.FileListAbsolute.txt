@@ -1,0 +1,29 @@
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\bin\Debug\Glasmorphim design.exe.config
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\bin\Debug\Glasmorphim design.exe
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\bin\Debug\Glasmorphim design.pdb
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\obj\Debug\Glasmorphim design.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\obj\Debug\Glasmorphim_design.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\obj\Debug\Glasmorphim_design.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\obj\Debug\Glasmorphim design.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\obj\Debug\Glasmorphim design.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\obj\Debug\Glasmorphim design.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\obj\Debug\Glasmorphim design.exe
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\obj\Debug\Glasmorphim design.pdb
+D:\AW 17\Source Code Visual Studio 19\Glasmorphim design\Glasmorphim design\obj\Debug\Glasmorphim_design.Form2.resources
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\bin\Debug\Glasmorphim design.exe.config
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim design.exe
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim design.pdb
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\bin\Debug\Glasmorphim design.exe
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\bin\Debug\Glasmorphim design.pdb
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\bin\Debug\Guna.UI2.dll
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim design.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim_design.Form1.resources
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim_design.Form2.resources
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim_design.Properties.Resources.resources
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim design.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim design.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim design.csproj.CopyComplete
+C:\Users\dell\Desktop\project\Login-glassmorphism-ui-main\Glasmorphim design\bin\Debug\Glasmorphim design.exe.config
+C:\Users\dell\Desktop\project\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim design.exe
+C:\Users\dell\Desktop\project\Login-glassmorphism-ui-main\Glasmorphim design\obj\Debug\Glasmorphim design.pdb

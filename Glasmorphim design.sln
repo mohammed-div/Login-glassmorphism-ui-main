@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glasmorphim design", "Glasmorphim design\Glasmorphim design.csproj", "{D5755E66-7631-44C7-A28B-F2B6BE3A08F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5755E66-7631-44C7-A28B-F2B6BE3A08F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5755E66-7631-44C7-A28B-F2B6BE3A08F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5755E66-7631-44C7-A28B-F2B6BE3A08F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5755E66-7631-44C7-A28B-F2B6BE3A08F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FAF777-AC2B-429E-B804-CB3A54195028}
+	EndGlobalSection
+EndGlobal
